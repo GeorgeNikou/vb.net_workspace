@@ -1,0 +1,5 @@
+https://dev.mysql.com/downloads/connector/net/6.10.html
+
+visual studio - properties/references/add/browse
+
+desktop path - C:/Program Files (x86)/MySQL/MySQL Connector Net 8.0.18/Assemblies/v4.5.2/MySql.Data.dll

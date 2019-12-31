@@ -1,0 +1,206 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+project
+</name>
+</assembly>
+<members>
+<member name="T:project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:project.DBManagerEmployee.getSingleEmployee(System.Int32)">
+ <summary>
+ search single users
+ </summary>
+ <param name="id"></param>
+ <returns></returns>
+</member>
+<member name="M:project.DBManagerEmployee.addEmployee(project.employeeBean)">
+ <summary>
+ add new employee
+ </summary>
+ <param name="employee"></param>
+</member>
+<member name="M:project.DBManagerEmployee.editemployee(project.employeeBean)">
+ <summary>
+ edit employee
+ </summary>
+ <param name="editemployee"></param>
+</member>
+<member name="M:project.DBManagerEmployee.rentVideo(System.Int32,System.Int32,System.DateTime)">
+ <summary>
+ Rent a video add to rent table
+ </summary>
+ <param name="client_id"></param>
+ <param name="video_id"></param>
+ <param name="rent_date"></param>
+</member>
+<member name="M:project.DBManagerEmployee.returnVideoinfo(System.Int32)">
+ <summary>
+ get all the infos for videos been rent
+ </summary>
+ <param name="video_id"></param>
+ <returns></returns>
+</member>
+<member name="M:project.DBManagerEmployee.getClientnos">
+ <summary>
+ get all client number
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:project.DBManagerEmployee.getVideoByID(System.Int32)">
+ <summary>
+ get video by id
+ </summary>
+ <param name="id"></param>
+ <returns></returns>
+</member>
+<member name="M:project.DBManagerEmployee.deleteemployee(System.Int32)">
+ <summary>
+ deletes a single client
+ </summary>
+ <param name="id"></param>
+</member>
+<member name="M:project.clientBean.ToString">
+ <summary>
+ toString method (display info)
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:project.clientBean.Id">
+ <summary>
+ GETTERS AND SETTERS
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:project.DBManager.getAllClients">
+ <summary>
+ gets all client
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:project.DBManager.getSingleClient(System.Int32)">
+ <summary>
+ search single client
+ </summary>
+ <param name="id"></param>
+ <returns></returns>
+</member>
+<member name="M:project.DBManager.fillSingleClient(System.Int32)">
+ <summary>
+ this function fills out all textfields within the client edit page
+ </summary>
+ <param name="id">this parameter takes a clients id number</param>
+ <returns></returns>
+</member>
+<member name="M:project.DBManager.addClient(project.clientBean)">
+ <summary>
+ add new client
+ </summary>
+ <param name="client"></param>
+</member>
+<member name="M:project.DBManager.editClient(project.clientBean)">
+ <summary>
+ edits a single client
+ </summary>
+ <param name="client"></param>
+</member>
+<member name="M:project.DBManager.deleteClient(System.Int32)">
+ <summary>
+ deletes a single client
+ </summary>
+ <param name="id"></param>
+</member>
+<member name="M:project.DBManager.loginValid(System.String,System.String)">
+ <summary>
+ login validation function
+ </summary>
+ <param name="username">this parameter takes in the employees username</param>
+ <param name="password">this parameter takes in the employees password</param>
+ <returns></returns>
+</member>
+<member name="M:project.DBManager.getAllVideos">
+ <summary>
+ gets all videos
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:project.DBManager.getSingleVideo(System.Int32)">
+ <summary>
+ search single video
+ </summary>
+ <param name="id"></param>
+ <returns></returns>
+</member>
+<member name="M:project.DBManager.addVideo(project.videoBean)">
+ <summary>
+ add new video
+ </summary>
+ <param name="video"></param>
+</member>
+<member name="M:project.DBManager.editVideo(project.videoBean)">
+ <summary>
+ edits a single video
+ </summary>
+ <param name="video"></param>
+</member>
+<member name="M:project.DBManager.deleteVideo(System.Int32)">
+ <summary>
+ deletes a single video
+ </summary>
+ <param name="id"></param>
+</member>
+<member name="P:project.employeeBean.ID">
+ <summary>
+ GETTERS AND SETTERS
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:project.searchBean.SearchTitle">
+ <summary>
+ GETTERS AND SETTERS
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:project.videoBean.ToString">
+ <summary>
+ toString method (display info)
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:project.videoBean.VideoID">
+ <summary>
+ GETTERS AND SETTERS
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:project.vEditClient.btn_save_EClient_Click(System.Object,System.EventArgs)">
+ <summary>
+ edit client
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:project.vEditClient.btn_cancel_EClient_Click(System.Object,System.EventArgs)">
+ <summary>
+ cancel button
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

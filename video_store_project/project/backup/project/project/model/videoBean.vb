@@ -1,0 +1,150 @@
+﻿Public Class videoBean
+
+    'properties
+    Private _videoID As Long
+    Private _photo As Image
+    Private _title As String
+    Private _year As Integer
+    Private _country As String
+    Private _language As String
+    Private _length As Double
+    Private _resume As String
+    Private _genre As String
+    Private _actor As String
+    Private _director As String
+
+    'constructor
+    Public Sub New(photo As Image, title As String, year As Integer, country As String, language As String, length As Double, [resume] As String, genre As String, actor As String, director As String)
+        _photo = photo
+        _title = title
+        _year = year
+        _country = country
+        _language = language
+        _length = length
+        _resume = [resume]
+        _genre = genre
+        _actor = actor
+        _director = director
+    End Sub
+
+    ''' <summary>
+    ''' toString method (display info)
+    ''' </summary>
+    ''' <returns></returns>
+    Public Overrides Function ToString() As String
+        Return "ID: " & _videoID & vbNewLine &
+               "Title: " & _title & vbNewLine &
+               "Year: " & _year & vbNewLine &
+               "Country: " & _country & vbNewLine &
+               "Language: " & _language & vbNewLine &
+               "length: " & _length & vbNewLine &
+               "Resume: " & _resume & vbNewLine &
+               "Genre: " & _genre & vbNewLine &
+               "Actor: " & _actor & vbNewLine &
+               "Director: " & _director
+    End Function
+
+    ''' <summary>
+    ''' GETTERS AND SETTERS
+    ''' </summary>
+    ''' <returns></returns>
+    Public Property VideoID As Long
+        Get
+            Return _videoID
+        End Get
+        Set(value As Long)
+            _videoID = value
+        End Set
+    End Property
+
+    Public Property Photo As Image
+        Get
+            Return _photo
+        End Get
+        Set(value As Image)
+            _photo = value
+        End Set
+    End Property
+
+    Public Property Title As String
+        Get
+            Return _title
+        End Get
+        Set(value As String)
+            _title = value
+        End Set
+    End Property
+
+    Public Property Year As Integer
+        Get
+            Return _year
+        End Get
+        Set(value As Integer)
+            _year = value
+        End Set
+    End Property
+
+    Public Property Country As String
+        Get
+            Return _country
+        End Get
+        Set(value As String)
+            _country = value
+        End Set
+    End Property
+
+    Public Property Language As String
+        Get
+            Return _language
+        End Get
+        Set(value As String)
+            _language = value
+        End Set
+    End Property
+
+    Public Property Length As Double
+        Get
+            Return _length
+        End Get
+        Set(value As Double)
+            _length = value
+        End Set
+    End Property
+
+    Public Property [Resume] As String
+        Get
+            Return _resume
+        End Get
+        Set(value As String)
+            _resume = value
+        End Set
+    End Property
+
+    Public Property Genre As String
+        Get
+            Return _genre
+        End Get
+        Set(value As String)
+            _genre = value
+        End Set
+    End Property
+
+    Public Property Actor As String
+        Get
+            Return _actor
+        End Get
+        Set(value As String)
+            _actor = value
+        End Set
+    End Property
+
+    Public Property Director As String
+        Get
+            Return _director
+        End Get
+        Set(value As String)
+            _director = value
+        End Set
+    End Property
+
+End Class

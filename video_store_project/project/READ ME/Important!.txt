@@ -1,0 +1,8 @@
+DO NOT ALTER ANYTHING INSIDE THE My Project folder
+Dropbox\Video store project\project\project\project\My Project
+
+
+YOU MUST USE VERSION 4.61 IN ORDER TO AVOID FRAMEWORK CONFLICTS
+
+AS OF 10/24/24 IT IS MANDATORY TO WORK ON FILES ONLY IN YOUR OWN FOLDER. MERGING WILL BE DONE BY ME (George). 
+Please be sure to write all the updates within a txt file. Thank you

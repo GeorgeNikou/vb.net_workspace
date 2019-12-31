@@ -1,0 +1,114 @@
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\project.exe.config
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\project.exe
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\project.pdb
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\project.xml
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\Google.Protobuf.dll
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\MySql.Data.dll
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\Renci.SshNet.dll
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\Google.Protobuf.xml
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\MySql.Data.xml
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\bin\Debug\Renci.SshNet.xml
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vbprojAssemblyReference.cache
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vLogin.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.Resources.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vbproj.GenerateResource.cache
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vbproj.CoreCompileInputs.cache
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vbproj.CopyComplete
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.exe
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.xml
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.pdb
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vAddClient.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vAdvanceSearch.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vDashboard.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vDeleteClient.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vDeleteEmployee.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vDeleteVideo.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vEditClient.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vEditEmployee.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vEditVideo.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vNEmployee1.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vAddVideo.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vNEmployee2.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vNEmployee3.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vNPassword.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vRentVideo.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vReturnVideo.resources
+C:\Users\George Nikou\Dropbox\Video store project\project\new project\project\project\obj\Debug\project.vSearch.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\project.exe.config
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\project.exe
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\project.pdb
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\project.xml
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\Google.Protobuf.dll
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\MySql.Data.dll
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\Renci.SshNet.dll
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\Google.Protobuf.xml
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\MySql.Data.xml
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\Renci.SshNet.xml
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vbprojAssemblyReference.cache
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vLogin.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.Resources.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vAddClient.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vAddVideo.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vAdvanceSearch.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vDashboard.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vDeleteClient.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vDeleteEmployee.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vDeleteVideo.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vEditClient.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vEditEmployee.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vEditVideo.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vNEmployee1.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vNEmployee2.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vNEmployee3.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vNPassword.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vRentVideo.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vReturnVideo.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vSearch.resources
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vbproj.GenerateResource.cache
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vbproj.CoreCompileInputs.cache
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vbproj.CopyComplete
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.exe
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.xml
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.pdb
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.test.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\project.exe.config
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\project.exe
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\project.pdb
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\project.xml
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\Google.Protobuf.dll
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\MySql.Data.dll
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\Renci.SshNet.dll
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\Google.Protobuf.xml
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\MySql.Data.xml
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\bin\Debug\Renci.SshNet.xml
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vLogin.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.Resources.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.test.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vAddClient.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vAddVideo.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vAdvanceSearch.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vDashboard.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vDeleteClient.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vDeleteEmployee.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vDeleteVideo.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vEditClient.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vEditEmployee.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vEditVideo.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vNEmployee1.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vNEmployee2.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vNEmployee3.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vNPassword.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vRentVideo.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vReturnVideo.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vSearch.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vbproj.GenerateResource.cache
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vbproj.CopyComplete
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.exe
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.xml
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.pdb
+C:\Users\5204474\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.VEmployeeList.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.VEmployeeList.resources
+C:\Users\dssal\Dropbox\Video store project\project\Team\Nihal\project\project\obj\Debug\project.vbprojAssemblyReference.cache

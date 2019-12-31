@@ -1,0 +1,16 @@
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\bin\Debug\lab3.exe
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\bin\Debug\lab3.pdb
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\bin\Debug\lab3.xml
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.vbprojAssemblyReference.cache
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.Resources.resources
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.vbproj.GenerateResource.cache
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.vbproj.CoreCompileInputs.cache
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.exe
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.xml
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.pdb
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_create.resources
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_login.resources
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_menu.resources
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_scrabble.resources
+C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_hangman.resources

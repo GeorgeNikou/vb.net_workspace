@@ -1,0 +1,298 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Module3
+</name>
+</assembly>
+<members>
+<member name="T:Module3.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Module3.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Module3.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Module3.exo4.add_person(System.String@)">
+ <summary>
+ This sub adds a new user to the person array
+ </summary>
+ <param name="var1">takes in a user name</param>
+</member>
+<member name="M:Module3.exo4.edit_person(System.Int32@,System.String)">
+ <summary>
+ this sub edits a existing user from the person array
+ </summary>
+ <param name="var1">this parameter holds the index position of user</param>
+ <param name="var2">this parameter contains the new name given by the user to replace old</param>
+</member>
+<member name="M:Module3.exo4.delete_person(System.String@)">
+ <summary>
+ this sub deletes a user
+ </summary>
+ <param name="var1">this parameter holds the user name that needs to be removed</param>
+</member>
+<member name="M:Module3.exo4.show_person_list">
+ <summary>
+ this sub displays all the users in the person array
+ </summary>
+ <param name="var1"></param>
+</member>
+<member name="M:Module3.exo4.counting">
+ <summary>
+ counts the numbers or people in the person array
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Module3.exo4.count_longest">
+ <summary>
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Module3.exo4.menu">
+ <summary>
+ displays the menu of people
+ </summary>
+</member>
+<member name="M:Module3.exo1_logical.populate_array(System.Int32[]@)">
+ <summary>
+ function to randomly populate the array
+ </summary>
+ <param name="data"></param>
+</member>
+<member name="M:Module3.exo1_logical.display_array(System.Int32[]@,System.String)">
+ <summary>
+ function to display the array called data
+ </summary>
+ <param name="data"></param>
+</member>
+<member name="M:Module3.exo2_logical.populate_array(System.Int32[]@)">
+ <summary>
+ function to randomly populate the array
+ </summary>
+ <param name="data"></param>
+</member>
+<member name="M:Module3.exo2_logical.display_array(System.Int32[]@,System.String)">
+ <summary>
+ function to display the array called data
+ </summary>
+ <param name="data"></param>
+</member>
+<member name="M:Module3.exo3_logical.populate_array(System.Int32[]@)">
+ <summary>
+ function to randomly populate the array
+ </summary>
+ <param name="data"></param>
+</member>
+<member name="M:Module3.exo3_logical.display_array(System.Int32[]@,System.String)">
+ <summary>
+ function to display the array called data
+ </summary>
+ <param name="data"></param>
+</member>
+<member name="M:Module3.lab_1.calculate_average(System.Double,System.Double,System.Double)">
+ <summary>
+ This function calculates the average
+ </summary>
+ <param name="var1"></param>
+ <param name="var2"></param>
+ <param name="var3"></param>
+ <returns></returns>
+</member>
+<member name="M:Module3.question3.show_phonebook">
+ <summary>
+ Shows all phonebook entries
+ </summary>
+</member>
+<member name="M:Module3.question3.show_menu">
+ <summary>
+ Shows all menu options
+ </summary>
+</member>
+<member name="M:Module3.question1b.show_menu">
+ <summary>
+ This function shows the menu of items available
+ </summary>
+</member>
+<member name="M:Module3.question2b.option_items">
+ <summary>
+ This function adds items to the option arraylist
+ </summary>
+</member>
+<member name="M:Module3.question2b.person_tmp">
+ <summary>
+ 'This functions pre-populates arraylist with names and numbers
+ </summary>
+</member>
+<member name="M:Module3.question2b.menu_display">
+ <summary>
+ This functions display the options menu to the user
+ </summary>
+</member>
+<member name="M:Module3.question2b.person_show">
+ <summary>
+ This function displays the phonebook
+ </summary>
+</member>
+<member name="M:Module3.question2b.person_add(System.String@)">
+ <summary>
+ This function adds a new person to the phonebook
+ </summary>
+ <param name="var"> This parameter is the users input variable</param>
+</member>
+<member name="M:Module3.question2b.person_delete(System.Int32)">
+ <summary>
+ This function delete an existing person from the phonebook
+ </summary>
+ <param name="var">This Parameter is the users selected index position</param>
+</member>
+<member name="M:Module3.question2b.person_edit(System.Int32@,System.String)">
+ <summary>
+ This function edits an existing person in the phonebook
+ </summary>
+ <param name="var">This parameter is the index position selected by the user</param>
+ <param name="input">This parameter is the new name and number replacing old values</param>
+</member>
+<member name="M:Module3.question2b.person_greet">
+ <summary>
+ Greets the user and displays the menu
+ </summary>
+</member>
+<member name="M:Module3.question2b.person_goodbye">
+ <summary>
+ This function halts the program
+ </summary>
+</member>
+<member name="M:Module3.lab3.menu_lab2">
+ <summary>
+ These functions belong to lab2 (Calculator) - BEGIN
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Module3.lab3.show_menu">
+ <summary>
+ This function shows the menu of items available
+ </summary>
+</member>
+<member name="M:Module3.lab3.show_main_menu">
+ <summary>
+ This function calls the main menu to the console
+ </summary>
+</member>
+<member name="M:Module3.lab3.color_error">
+ <summary>
+ Changes the console text color to red
+ </summary>
+</member>
+<member name="M:Module3.lab3.color_revert">
+ <summary>
+ changes the console text color to original
+ </summary>
+</member>
+<member name="M:Module3.lab3.lab1">
+ <summary>
+ This functions runs the average program
+ </summary>
+</member>
+<member name="M:Module3.lab3.lab2">
+ <summary>
+ This functions runs the calculator program
+ </summary>
+</member>
+<member name="M:Module3.lab3.lab3">
+ <summary>
+ This functions runs the cash register program
+ </summary>
+</member>
+<member name="M:Module3.lab3.lab4">
+ <summary>
+ This functions runs the christmas tree program
+ </summary>
+</member>
+<member name="M:Module3.lab3.lab5">
+ <summary>
+ This functions runs the food menu program
+ </summary>
+</member>
+<member name="M:Module3.lab3.lab6">
+ <summary>
+ this functions belongs to the number to word lab
+ this functions converts numbers into words
+ </summary>
+</member>
+<member name="M:Module3.lab3.lab7">
+ <summary>
+ This function runs the phonebook program
+ </summary>
+</member>
+<member name="M:Module3.lab3.menu_display">
+ <summary>
+ This functions display the options menu to the user
+ </summary>
+</member>
+<member name="M:Module3.lab3.person_show">
+ <summary>
+ This function displays the phonebook
+ </summary>
+</member>
+<member name="M:Module3.lab3.person_add(System.String@)">
+ <summary>
+ This function adds a new person to the phonebook
+ </summary>
+ <param name="var"> This parameter is the users input variable</param>
+</member>
+<member name="M:Module3.lab3.person_delete(System.Int32)">
+ <summary>
+ This function delete an existing person from the phonebook
+ </summary>
+ <param name="var">This Parameter is the users selected index position</param>
+</member>
+<member name="M:Module3.lab3.person_edit(System.Int32@,System.String)">
+ <summary>
+ This function edits an existing person in the phonebook
+ </summary>
+ <param name="var">This parameter is the index position selected by the user</param>
+ <param name="input">This parameter is the new name and number replacing old values</param>
+</member>
+<member name="M:Module3.lab3.person_greet">
+ <summary>
+ Greets the user and displays the menu
+ </summary>
+</member>
+<member name="M:Module3.lab3.person_goodbye">
+ <summary>
+ This function halts the program
+ </summary>
+</member>
+<member name="M:Module3.structure_lab.pre_fill">
+ <summary>
+ this function prefills structure array with data
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Module3.structure_lab.display">
+ <summary>
+ this functions displays our data
+ </summary>
+</member>
+<member name="T:Module3.structure_lab.auction_structure">
+ <summary>
+ this is our auction data structure 
+ </summary>
+</member>
+<member name="M:Module3.structure_lab.auction_menu">
+ <summary>
+ this function displays the main menu
+ </summary>
+</member>
+</members>
+</doc>

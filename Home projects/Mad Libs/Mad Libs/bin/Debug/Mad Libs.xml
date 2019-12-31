@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Mad Libs
+</name>
+</assembly>
+<members>
+<member name="T:Mad_Libs.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Mad_Libs.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Mad_Libs.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Mad_Libs.Function_randomizer.rand_noun(System.Collections.ArrayList)">
+ <summary>
+ regular noun
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Mad_Libs.User.Username">
+ <summary>
+ GETTERS AND SETTERS
+ </summary>
+ <returns></returns>
+</member>
+<member name="P:Mad_Libs.War.Noun1">
+ <summary>
+ GETTERS AND SETTERS
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Mad_Libs.Form1.add_noun">
+ <summary>
+ adds NOUN to the arraylist
+ </summary>
+</member>
+</members>
+</doc>

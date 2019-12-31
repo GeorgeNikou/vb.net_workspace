@@ -1,0 +1,16 @@
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\bin\Debug\Mad Libs.exe.config
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\bin\Debug\Mad Libs.exe
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\bin\Debug\Mad Libs.pdb
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\bin\Debug\Mad Libs.xml
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad Libs.vbprojAssemblyReference.cache
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.Form1.resources
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.Resources.resources
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad Libs.vbproj.GenerateResource.cache
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad Libs.vbproj.CoreCompileInputs.cache
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad Libs.exe
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad Libs.xml
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad Libs.pdb
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.new_user.resources
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.main_menu.resources
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.result.resources
+C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.lib_war_view.resources

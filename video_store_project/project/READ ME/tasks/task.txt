@@ -1,0 +1,45 @@
+|| ==== Nehal ==== ||
+- add/edit/delete client view (DONE)
+- Quick / Advance Search view (DONE)
+- Rent / Return Video view (DONE)
+- DBManager for employees
+- insert,update,delete employee backend(DONE)
+- List Employee View (DONE)
+- rent video (DONE)
+- return video (DONE)
+
+
+
+|| ==== Jose ==== ||
+- Edit/Delete Employee (DONE)
+- Add/Edit/Delete Video view (DONE)
+- DBManager for videos (DONE)
+- Add/edit/delete video (DONE)
+- List videos (DONE)
+- video validation (DONE)
+- Advanced search and modification of search (DONE)
+- DB diagram (DONE)
+
+
+
+|| ==== George ==== ||
+- client class (DONE)
+- video class (DONE)
+- search class (DONE)
+- list client view (DONE)
+- list/search client backend (DONE)
+- dashboard view (DONE)
+- new password view (DONE)
+- dashboard view (DONE)
+- add/edit/delete employee view (DONE)
+- add/edit/delete client backend (DONE)
+- login screen view (DONE)
+- login screen backend (DONE)
+- login validtion (DONE)
+- new password backend (DONE)
+- quick search backend (DONE)
+- quick search validation (DONE)
+- client edit/delete validattion			
+			
+		           
+

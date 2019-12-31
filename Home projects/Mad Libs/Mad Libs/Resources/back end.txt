@@ -1,0 +1,4 @@
+Form1.array_war.Add(New War(txt_war_noun1.Text, txt_war_noun2.Text, txt_war_noun3.Text, txt_war_occupation.Text, txt_war_place.Text, txt_war_verb.Text, txt_war_verbed.Text, txt_war_noun4.Text, txt_war_verbing.Text, txt_war_noun_plural.Text, txt_war_noun5.Text, txt_war_emotion.Text))
+        result.lbl_result.Text = Form1.array_war.ToString
+        Me.Close()
+        result.Show()

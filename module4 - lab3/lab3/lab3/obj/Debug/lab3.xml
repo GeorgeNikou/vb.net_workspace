@@ -1,0 +1,182 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+lab3
+</name>
+</assembly>
+<members>
+<member name="T:lab3.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.blue_bg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.hangman_1_arm">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.hangman_1_leg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.hangman_2_arms">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.hangman_body">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.hangman_empty">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.hangman_head">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.hangman_over">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.hangman_string">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.hangman_whole">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.petals">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.scrabble_bg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.subtle1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:lab3.My.Resources.Resources.words">
+<summary>
+  Looks up a localized string similar to aardvark
+aardwolf
+aaron
+aback
+abacus
+abaft
+abalone
+abandon
+abandoned
+abandonment
+abandons
+abase
+abased
+abasement
+abash
+abashed
+abate
+abated
+abatement
+abates
+abattoir
+abattoirs
+abbe
+abbess
+abbey
+abbeys
+abbot
+abbots
+abbreviate
+abbreviated
+abbreviates
+abbreviating
+abbreviation
+abbreviations
+abdicate
+abdicated
+abdicates
+abdicating
+abdication
+abdomen
+abdomens
+abdominal
+abduct
+abducted
+abducting
+abduction
+abductions
+abductor
+abductors
+abducts
+abe
+abeam
+abel
+abe [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="M:lab3.form_login.login_Load(System.Object,System.EventArgs)">
+ <summary>
+ FORM LOADER
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:lab3.form_login.btn_login_create_Click(System.Object,System.EventArgs)">
+ <summary>
+ CREATE NEW USER
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:lab3.form_login.btn_login_enter_Click(System.Object,System.EventArgs)">
+ <summary>
+ LOGIN BUTTON
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:lab3.form_login.msi_login_create_Click(System.Object,System.EventArgs)">
+ <summary>
+ menu item create new user
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="T:lab3.form_login.person">
+ <summary>
+ STRUCTURE
+ </summary>
+</member>
+</members>
+</doc>
