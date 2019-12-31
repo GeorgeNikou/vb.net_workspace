@@ -9,7 +9,8 @@
 
     Private Sub lab1_a_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Me.BackgroundImageLayout = ImageLayout.Stretch
-        Me.BackgroundImage = System.Drawing.Image.FromFile("C:\Users\George Nikou\Desktop\pictures\long_road.jpg")
+        'Me.BackgroundImage = System.Drawing.Image.FromFile("C:\Users\George Nikou\Desktop\pictures\long_road.jpg")
+        Me.BackgroundImage = System.Drawing.Image.FromFile("C:\Users\George\Desktop\long_road.jpg")
 
         lbl_consumption.BackColor = Color.Transparent
         lbl_consumption.ForeColor = Color.White
