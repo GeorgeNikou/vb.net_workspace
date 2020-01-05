@@ -22,7 +22,7 @@
             'Show the menu items
             show_menu()
             Console.WriteLine(vbNewLine)
-            Console.WriteLine("Would you like to add new items to my shitlist? (y/n)")
+            Console.WriteLine("Would you like to add new items to the list? (y/n)")
             user_input = Console.ReadLine()
             If (user_input = "n") Then
                 Console.WriteLine("Program will now terminate. Goodbye...")
