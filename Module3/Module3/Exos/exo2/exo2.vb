@@ -1,6 +1,9 @@
 ﻿Module exo2
 
     Sub Main()
+        
+        ' Switch Case practice ----------------------------------------------------------------
+        
         'Dim month_number As Integer
         'Console.WriteLine("Please select a number")
         'month_number = Console.ReadLine()
@@ -37,23 +40,8 @@
 
 
 
-        'Dim var1 As Integer
-        'var1 = 1
-        'While var1 <= 10
-        '    Console.WriteLine(var1)
-        '    var1 = var1 + 1
-        'End While
-
-        'Dim counter As Integer
-        'counter = 10
-        'For x = 1 To counter
-        '    Console.WriteLine(x)
-        'Next
-
-        'For x As Integer = 1 To 10 Step 2
-        '    Console.WriteLine("x")
-        'Next
-
+      
+        ' Celcius to Fahrenheit small application run in the console ----------------------------------------------------
 
         'declaring variables
         Dim ferein, celcius, convert1, convert2, result2 As String
