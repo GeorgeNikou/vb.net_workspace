@@ -9,3 +9,13 @@ C:\Visual Studio - Workspace\Module3\Module3\obj\Debug\Module3.vbproj.CoreCompil
 C:\Visual Studio - Workspace\Module3\Module3\obj\Debug\Module3.exe
 C:\Visual Studio - Workspace\Module3\Module3\obj\Debug\Module3.xml
 C:\Visual Studio - Workspace\Module3\Module3\obj\Debug\Module3.pdb
+C:\Users\George\Desktop\George's Work\VB.Net\Module3\Module3\bin\Debug\Module3.exe.config
+C:\Users\George\Desktop\George's Work\VB.Net\Module3\Module3\bin\Debug\Module3.exe
+C:\Users\George\Desktop\George's Work\VB.Net\Module3\Module3\bin\Debug\Module3.pdb
+C:\Users\George\Desktop\George's Work\VB.Net\Module3\Module3\bin\Debug\Module3.xml
+C:\Users\George\Desktop\George's Work\VB.Net\Module3\Module3\obj\Debug\Module3.vbprojAssemblyReference.cache
+C:\Users\George\Desktop\George's Work\VB.Net\Module3\Module3\obj\Debug\Module3.Resources.resources
+C:\Users\George\Desktop\George's Work\VB.Net\Module3\Module3\obj\Debug\Module3.vbproj.GenerateResource.cache
+C:\Users\George\Desktop\George's Work\VB.Net\Module3\Module3\obj\Debug\Module3.exe
+C:\Users\George\Desktop\George's Work\VB.Net\Module3\Module3\obj\Debug\Module3.xml
+C:\Users\George\Desktop\George's Work\VB.Net\Module3\Module3\obj\Debug\Module3.pdb

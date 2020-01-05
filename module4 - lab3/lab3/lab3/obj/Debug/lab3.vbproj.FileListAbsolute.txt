@@ -14,3 +14,18 @@ C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_login.
 C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_menu.resources
 C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_scrabble.resources
 C:\Visual Studio - Workspace\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_hangman.resources
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\bin\Debug\lab3.xml
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\obj\Debug\lab3.vbprojAssemblyReference.cache
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_create.resources
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_login.resources
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_hangman.resources
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_menu.resources
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\obj\Debug\lab3.form_scrabble.resources
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\obj\Debug\lab3.Resources.resources
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\obj\Debug\lab3.vbproj.GenerateResource.cache
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\obj\Debug\lab3.xml
+C:\Users\George\Desktop\George's Work\VB.Net\module4 - lab3\lab3\lab3\obj\Debug\lab3.pdb
