@@ -14,3 +14,18 @@ C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.
 C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.main_menu.resources
 C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.result.resources
 C:\Visual Studio - Workspace\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.lib_war_view.resources
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\bin\Debug\Mad Libs.exe.config
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\bin\Debug\Mad Libs.exe
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\bin\Debug\Mad Libs.pdb
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\bin\Debug\Mad Libs.xml
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad Libs.vbprojAssemblyReference.cache
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.lib_war_view.resources
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.Form1.resources
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.Resources.resources
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.main_menu.resources
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.new_user.resources
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad_Libs.result.resources
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad Libs.vbproj.GenerateResource.cache
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad Libs.exe
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad Libs.xml
+C:\Users\George\Desktop\George's Work\VB.Net\Home projects\Mad Libs\Mad Libs\obj\Debug\Mad Libs.pdb
