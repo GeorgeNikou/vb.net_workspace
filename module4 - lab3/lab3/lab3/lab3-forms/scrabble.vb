@@ -16,7 +16,7 @@
 
         arr_words.Add("abandonment")
         arr_words.Add("firebombs")
-        arr_words.Add("hookers")
+        arr_words.Add("cooks")
         arr_words.Add("junctions")
         arr_words.Add("mindlessness")
         arr_words.Add("ordaining")
