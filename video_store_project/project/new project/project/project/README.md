@@ -3,10 +3,11 @@ A team project consisting of three members where I was chosen as leader. The vid
 
 Actions include:
 * Create users/movie/employee
-* read user/movie/employee
+* view user/movie/employee
 * update user/movie/employee
 * delete user/movie/employee
 * rent movie
+* return movie
 
 ## database
 * MySQL
